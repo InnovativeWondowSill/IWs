@@ -30,3 +30,6 @@ and follow us on various platforms
 ![ee4fee38-cd16-4989-af4f-28c3b3ef8c47](https://user-images.githubusercontent.com/71927048/185216690-6b6c2ecb-72d3-4e9e-b6b5-1dd92a6b1a70.jpg)
 
 We have made this website to participate in Devathon organised by IIT Madras.
+
+All the pictures used in the website are clicked by the TEAM.
+The writing content is taken from diffent websites.
