@@ -22,10 +22,10 @@ Which also shows the estimated time required to read the blog. <br>
 <img width="1297" alt="Screenshot 2022-08-17 at 11 50 43 PM" src="https://user-images.githubusercontent.com/71927048/185216705-28a7ac08-aeb1-405b-b857-0440076a574c.png">
 
 
-Website has a Contact Us page <br>
-where you can read about us<br>
-Write to us<br>
-and follow us on various platforms<br>
+Website has a Contact Us page 
+where you can read about us
+Write to us
+and follow us on various platforms
 ![ee4fee38-cd16-4989-af4f-28c3b3ef8c47](https://user-images.githubusercontent.com/71927048/185216690-6b6c2ecb-72d3-4e9e-b6b5-1dd92a6b1a70.jpg)
 
 **We have made this website with love :heart: to participate in Devathon organised by IIT Madras.** <br>
